@@ -1,6 +1,11 @@
-body{
+body
+{
+   background-image: url("http://zamungswat.com/wp-content/uploads/2016/04/bg.jpg");
+   background-attachment:fixed;
+background-position:center;
+color:white;
 
-   background-color: yellow;
+}
 
 h1 {
      font-color: black;
