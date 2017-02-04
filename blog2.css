@@ -1,0 +1,80 @@
+img {
+    border-radius: 50%;
+}
+
+body {
+  
+  
+    background-color: powderblue ;
+       background-repeat: repeat-y;
+    background-position: right top;
+    margin-right: 200px;
+}
+h1{
+    border: 1px solid red;
+    outline-style: dotted;
+    outline-color: #00ff00;
+    
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: #4CAF50;
+     text-shadow: 0 0 3px MediumSeaGreen, 0 0 5px MediumSeaGreen;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+p {
+    height: 100px;
+    width: 70%;
+    background-color: powderblue;
+    
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+    border-style: dotted solid;
+}
+ 
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: red;
+}
+ol {
+    background: #ff9999;
+    padding: 20px;
+}
+
+ul {
+    background: #3399ff;
+    padding: 20px;
+}
+
+ol li {
+    background: #ffe5e5;
+    padding: 5px;
+    margin-left: 35px;
+}
+
+ul li {
+    background: #cce5ff;
+    margin: 5px;
+}
+#borderimg { 
+    border: 10px solid transparent;
+    padding: 15px;
+    -webkit-border-image: url(http://kidspressmagazine.com/t500/8678/8683/paper-borders-red-white-blue-stars.png) 30 round; /* Safari 3.1-5 */
+    -o-border-image: url(http://kidspressmagazine.com/t500/8678/8683/paper-borders-red-white-blue-stars.png) 30 round; /* Opera 11-12.1 */
+    border-image: url(http://kidspressmagazine.com/t500/8678/8683/paper-borders-red-white-blue-stars.png) 30 round;
+}
+body {
+    background-color: Purple ;
+}
