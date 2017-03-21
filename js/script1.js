@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded",
       var name =
        document.getElementById("name").value;
        var message = "<h2>Helloo " + name + "!</h2>";
-   
+       var message = "<h2>math 90 " "!</h2>";
       
       
       document
