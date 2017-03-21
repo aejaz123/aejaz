@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded",
       var name =
        document.getElementById("name").value;
        var message = "<h2>Hello " + name + "!</h2>";
-      var message = "math 90 " "!</h2>";
+   
       var message = "Sci 95" "!</h2>";
 
       document
@@ -20,6 +20,7 @@ document.addEventListener("DOMContentLoaded",
             .querySelector("#title")
             .textContent;
         title += " & Lovin' it!";
+           var message = "math 90 " "!</h2>";
         document
             .querySelector("h1")
             .textContent = title;
