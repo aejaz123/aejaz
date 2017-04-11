@@ -26,5 +26,12 @@ document.addEventListener("DOMContentLoaded",
                 .innerHTML = "<h2>" + message + "</h2>";
             });
       });
+  
+  <script>
+function myFunction() {
+    var x = document.getElementById("myText").value;
+    document.getElementById("demo").innerHTML = x;
+}
+</script>
   }
 );
