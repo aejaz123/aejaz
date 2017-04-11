@@ -1,6 +1,12 @@
 {
-  "firstName": "Yaakov",
-  "lastName": "Chaikin",
-  "likesChineseFood": true,
-  "numberOfDisplays": 2 
+  "num01": "8",
+  "num2": "8",
+  "num3": "8",
+  "num4": "8",
+  "num5": "8",
+  "num6": "8",
+  "num7": "8",
+  "num8": "8",
+  "num9": "8",
+  "num10": "8"
 }
