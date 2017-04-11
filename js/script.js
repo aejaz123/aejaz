@@ -1,4 +1,5 @@
 
+// Event handling
 document.addEventListener("DOMContentLoaded",
   function (event) {
     
@@ -26,6 +27,5 @@ document.addEventListener("DOMContentLoaded",
                 .innerHTML = "<h2>" + message + "</h2>";
             });
       });
-  
   }
 );
